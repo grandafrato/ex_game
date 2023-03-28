@@ -1,0 +1,2 @@
+defmodule ExGame do
+end
